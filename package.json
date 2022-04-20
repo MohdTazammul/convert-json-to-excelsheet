@@ -1,0 +1,23 @@
+{
+  "name": "convert-json-to-execl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohdTazammul/convert-json-to-execl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohdTazammul/convert-json-to-execl/issues"
+  },
+  "homepage": "https://github.com/MohdTazammul/convert-json-to-execl#readme",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
